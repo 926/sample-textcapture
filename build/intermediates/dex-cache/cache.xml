@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/2arly/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/2arly/Documents/Code/Android_Online_1.0.12.49/sample-textcapture/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_96a0831d7608ce82cab28703b77d9c89d851d238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/2arly/Documents/Code/Android_Online_1.0.12.49/sample-textcapture/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/2arly/Documents/Code/Android_Online_1.0.12.49/sample-textcapture/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_5249217d17493b4e5548158008cc27caef632270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/2arly/Documents/Code/Android_Online_1.0.12.49/sample-textcapture/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/2arly/Documents/Code/Android_Online_1.0.12.49/sample-textcapture/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_dce4dde281f2e21892a1489c50a16e0acb6e98ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/2arly/Documents/Code/Android_Online_1.0.12.49/sample-textcapture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/2arly/Documents/Code/Android_Online_1.0.12.49/sample-textcapture/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_668322852a6688c690fb8a3cd7288199be606e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/2arly/Documents/Code/Android_Online_1.0.12.49/sample-textcapture/app/build/intermediates/exploded-aar/abbyy-rtr-sdk-1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f792e55cb76fefc7c8628fa590df9740c19d4ba">
+        <dex dex="/Users/2arly/Documents/Code/Android_Online_1.0.12.49/sample-textcapture/app/build/intermediates/pre-dexed/debug/intermediates-exploded-aar-abbyy-rtr-sdk-1.0_b98b2421a6f972e9db3e88ec171967f456e4b63d.jar" />
+    </item>
+
+</items>
